@@ -1,0 +1,27 @@
+[
+  {
+    "name": "A",
+    "value": 2,
+    "category": "Dog"
+  },
+  {
+    "name": "B",
+    "value": 0.5,
+    "category": "Cat"
+  },
+  {
+    "name": "C",
+    "value": 21,
+    "category": "Dog"    
+  },
+  {
+    "name": "D",
+    "value": 20,
+    "category": "Dog"
+  },
+  {
+    "name": "E",
+    "value": 10,
+    "category": "Cat"
+  }
+]

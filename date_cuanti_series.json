@@ -1,0 +1,52 @@
+[
+    {
+      "year": "2050",
+      "value": 2,
+      "category": "Dog"
+    },
+    {
+      "year": "2051",
+      "value": 0.5,
+      "category": "Dog"
+    },
+    {
+      "year": "2052",
+      "value": 21,
+      "category": "Dog"    
+    },
+    {
+      "year": "2053",
+      "value": 20,
+      "category": "Dog"
+    },
+    {
+      "year": "2054",
+      "value": 10,
+      "category": "Dog"
+    },
+    {
+    "year": "2050",
+    "value": 1,
+    "category": "Cat"
+    },
+    {
+    "year": "2051",
+    "value": 2,
+    "category": "Cat"
+    },
+    {
+    "year": "2052",
+    "value": 11,
+    "category": "Cat"    
+    },
+    {
+    "year": "2053",
+    "value": 8,
+    "category": "Cat"
+    },
+    {
+    "year": "2054",
+    "value": 20,
+    "category": "Cat"
+    }
+  ]
