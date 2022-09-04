@@ -1,0 +1,412 @@
+[
+  {
+    "id_Paciente": 0,
+    "Nombre_Paciente": "Ejemplo",
+    "Género": 0,
+    "Edad": 0,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Cocina, Costura, Deporte, Jardinería, Juegos, Lectura, Manualidad, Música, Pintar, Teatro",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 1,
+    "Nombre_Paciente": "Juan",
+    "Género": 0,
+    "Edad": 75,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Jardinería, Cocina, Juegos, Música",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 2,
+    "Nombre_Paciente": "Juana",
+    "Género": 1,
+    "Edad": 83,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Costura, Juegos, Lectura, Manualidad",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 3,
+    "Nombre_Paciente": "Pedro",
+    "Género": 0,
+    "Edad": 68,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Pintar, Teatro, Música, Lectura",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 4,
+    "Nombre_Paciente": "Manuela",
+    "Género": 1,
+    "Edad": 79,
+    "Fase_del_Alzheimer": 3,
+    "Grado_de_dependencia": 3,
+    "Característica": "Manualidad, Lectura, Costura, Jardinería",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 5,
+    "Nombre_Paciente": "Carmen",
+    "Género": 1,
+    "Edad": 76,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 1,
+    "Característica": "Manualidad, Lectura, Costura, Jardinería",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 6,
+    "Nombre_Paciente": "Olivia",
+    "Género": 1,
+    "Edad": 69,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Deporte, Cocina, Pintar, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 7,
+    "Nombre_Paciente": "Antonio",
+    "Género": 0,
+    "Edad": 80,
+    "Fase_del_Alzheimer": 3,
+    "Grado_de_dependencia": 3,
+    "Característica": "Juegos, Cocina, Teatro, Jardinería",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 8,
+    "Nombre_Paciente": "Martina",
+    "Género": 1,
+    "Edad": 87,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Pintar, Manualidad, Costura, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 9,
+    "Nombre_Paciente": "Claudio",
+    "Género": 0,
+    "Edad": 90,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Deporte, Música, Cocina, Lectura",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 10,
+    "Nombre_Paciente": "Esteban",
+    "Género": 0,
+    "Edad": 68,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 2,
+    "Característica": "Deporte, Teatro, Manualidad, Jardinería",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 11,
+    "Nombre_Paciente": "Carlos",
+    "Género": 0,
+    "Edad": 75,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Juegos, Lectura, Cocina, Teatro",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 12,
+    "Nombre_Paciente": "María",
+    "Género": 1,
+    "Edad": 86,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 1,
+    "Característica": "Costura, Jardinería, Manualidad, Cocina",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 13,
+    "Nombre_Paciente": "Candelaria",
+    "Género": 1,
+    "Edad": 69,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Manualidad, Pintar, Deporte, Teatro",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 14,
+    "Nombre_Paciente": "Fernando",
+    "Género": 0,
+    "Edad": 73,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 1,
+    "Característica": "Pintar, Música, Costura, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 15,
+    "Nombre_Paciente": "Cristobal",
+    "Género": 0,
+    "Edad": 80,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 2,
+    "Característica": "Juegos, Pintar, Jardinería, Deporte",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 16,
+    "Nombre_Paciente": "Petra",
+    "Género": 1,
+    "Edad": 70,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Lectura, Música, Teatro, Pintar",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 17,
+    "Nombre_Paciente": "Naira",
+    "Género": 1,
+    "Edad": 87,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Manualidad, Cocina, Pintar, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 18,
+    "Nombre_Paciente": "Fabio",
+    "Género": 0,
+    "Edad": 67,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Música, Teatro, Deporte, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 19,
+    "Nombre_Paciente": "Lucas",
+    "Género": 0,
+    "Edad": 71,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Teatro, Pintar, Deporte, Jardinería",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 20,
+    "Nombre_Paciente": "Laura",
+    "Género": 1,
+    "Edad": 91,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 1,
+    "Característica": "Música, Pintar, Cocina, Lectura",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 21,
+    "Nombre_Paciente": "Leonor",
+    "Género": 1,
+    "Edad": 82,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Cocina, Costura, Jardinería, Manualidad",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 22,
+    "Nombre_Paciente": "Francisco",
+    "Género": 0,
+    "Edad": 68,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 1,
+    "Característica": "Cocina, Pintar, Música, Deporte",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 23,
+    "Nombre_Paciente": "Jose",
+    "Género": 0,
+    "Edad": 79,
+    "Fase_del_Alzheimer": 3,
+    "Grado_de_dependencia": 2,
+    "Característica": "Pintar, Juegos, Deporte, Música",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 24,
+    "Nombre_Paciente": "Patricia",
+    "Género": 1,
+    "Edad": 73,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Deporte, Costura, Pintar, Manualidad",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 25,
+    "Nombre_Paciente": "Luisa",
+    "Género": 1,
+    "Edad": 81,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Pintar, Manualidad, Costura, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 26,
+    "Nombre_Paciente": "Ruth",
+    "Género": 1,
+    "Edad": 92,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Teatro, Música, Costura, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 27,
+    "Nombre_Paciente": "Raquel",
+    "Género": 1,
+    "Edad": 82,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 1,
+    "Característica": "Teatro, Cocina, Pintar, Jardinería",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 28,
+    "Nombre_Paciente": "Roberto",
+    "Género": 0,
+    "Edad": 86,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Jardinería, Manualidad, Pintar, Deporte",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 29,
+    "Nombre_Paciente": "Jaime",
+    "Género": 0,
+    "Edad": 87,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 1,
+    "Característica": "Música, Deporte, Pintar, Teatro",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 30,
+    "Nombre_Paciente": "Martín",
+    "Género": 0,
+    "Edad": 82,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 1,
+    "Característica": "Lectura, Deporte, Jardinería, Cocina",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 31,
+    "Nombre_Paciente": "Mercedes",
+    "Género": 1,
+    "Edad": 79,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Cocina, Teatro, Juegos, Lectura",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 32,
+    "Nombre_Paciente": "Paloma",
+    "Género": 1,
+    "Edad": 72,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 0,
+    "Característica": "Lectura, Manualidad, Pintar, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 33,
+    "Nombre_Paciente": "Diego",
+    "Género": 0,
+    "Edad": 71,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Juegos, Pintar, Manualidad, Deporte",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 34,
+    "Nombre_Paciente": "David",
+    "Género": 0,
+    "Edad": 86,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Deporte, Música, Cocina, Costura",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 35,
+    "Nombre_Paciente": "Eduardo",
+    "Género": 0,
+    "Edad": 74,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 0,
+    "Característica": "Jardinería, Manualidad, Música, Deporte",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 36,
+    "Nombre_Paciente": "Domingo",
+    "Género": 0,
+    "Edad": 81,
+    "Fase_del_Alzheimer": 0,
+    "Grado_de_dependencia": 1,
+    "Característica": "Cocina, Costura, Teatro, Pintar",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 37,
+    "Nombre_Paciente": "Claudia",
+    "Género": 1,
+    "Edad": 77,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 1,
+    "Característica": "Pintar, Teatro, Cocina, Manualidad",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 38,
+    "Nombre_Paciente": "Pilar",
+    "Género": 1,
+    "Edad": 88,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 0,
+    "Característica": "Cocina, Pintar, Manualidad, Teatro",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 39,
+    "Nombre_Paciente": "Gabriel",
+    "Género": 0,
+    "Edad": 82,
+    "Fase_del_Alzheimer": 2,
+    "Grado_de_dependencia": 1,
+    "Característica": "Teatro, Costura, Deporte, Juegos",
+    "Valoraciones":[]
+  },
+  {
+    "id_Paciente": 40,
+    "Nombre_Paciente": "Manuel",
+    "Género": 0,
+    "Edad": 78,
+    "Fase_del_Alzheimer": 1,
+    "Grado_de_dependencia": 0,
+    "Característica": "Juegos, Cocina, Costura, Manualidad",
+    "Valoraciones":[]
+  }
+]
