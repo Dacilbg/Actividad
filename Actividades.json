@@ -1,0 +1,842 @@
+[
+  {
+    "idActividad": 1,
+    "Nombre_Actividad": "Parchís",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "De 2 a 4 jugadores",
+    "Descripción_actividad": "Cada jugador elige uno de los cuatro colores disponibles (amarillo, rojo, azul y verde), y tendrá cuatro fichas dentro de la casilla de su color, que llamaremos casa. Este juego tiene diferentes normas que son las siguientes. Cada jugador tirará un dado, empezará a jugar el que mayor número saque y seguirá el jugador que se encuentra a su derecha. Para poder sacar ficha de la casa se debe sacar un 5 en el dado, hasta que esto no pase no podremos sacar. Cuando sacas un 6 vuelves a tirar. Si sacas tres 6 seguidos, te matas a ti mismo, tu ficha debe volver a casa. Si caes en una casilla donde hay una ficha de otro color, matas esa ficha, mandándola a su casa y cuentas 20 casillas. Las casillas con estrellas son seguros, aunque otro jugador caiga en esa casilla cuando tu estás no te pueden matar. Cada vez que metemos una ficha en la casilla central de nuestro propio color, contamos 10 casillas con otra de nuestras fichas. Ganará el jugador que antes meta las cuatro fichas en esta casilla central.",
+    "Material_necesario": "Un tablero de parchís, un dado y cuatro fichas de cada color (amarillo, rojo, azul y verde)."
+  },
+  {
+    "idActividad": 2,
+    "Nombre_Actividad": "La Oca",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Cada jugador elige una ficha, con ella tendrá que dar toda la vuelta al tablero, hasta llegar a la casilla central. Para esto debe tener en cuenta que hay casillas especiales, como son las casillas donde hay una oca, en la que diremos \"de oca a oca y tiro porque me toca\", con lo que nos trasladaremos a la siguiente casilla con una oca y volveremos a tirar. En las casillas que hay un puente, diremos \" de puente a puente y tiro porque me lleva la corriente\", trasladándonos al otro puente del tablero, teniendo que avanzar o retroceder, y volveremos a tirar. En los que tengamos unos dados, diremos \" de dados a dados y tiro porque me ha tocado\", y nos moveremos a la otra casilla que contenga unos dados, volviendo a tirar. La casilla de la posada nos impide jugar durante dos turnos. La prisión nos prohíbe jugar 3 turnos. En el caso del pozo, no podremos volver a tirar hasta que otro jugador pase por allí o por el contrario pasen 4 turnos. En la casilla del laberinto deberemos retroceder hasta la casilla 30 y en el caso de la casilla de la muerte, tendremos que volver a empezar.",
+    "Material_necesario": "Un tablero de la oca, un dado y una ficha por cada jugador."
+  },
+  {
+    "idActividad": 3,
+    "Nombre_Actividad": "Dominó",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "De 2 a 4 jugadores",
+    "Descripción_actividad": "Colocamos las 28 fichas que componen un dominó boca abajo, y las mezclamos. Cada jugador coge 7 fichas, las que sobran las dejamos a un lado de la mesa. Empezará el jugador que tenga la ficha con el doble 6. Si ninguno tiene esta ficha, saldrá el que tenga la ficha con doble 5, y así sucesivamente. El siguiente jugador deberá colocar una de sus fichas con valor similar a la colocada en la mesa, de tal modo que los valores de las fichas que sean iguales siempre se toquen. Si no tienes fichas con ese valor, y quedan fichas sobrantes en la mesa tendrás que coger hasta que obtengas una con la que puedas jugar. Si no quedan fichas en la mesa de sobra tendrás que pasar tu turno. La partida la ganará quien consiga descartarse antes de todas sus fichas. En el caso, de que llegué el turno en el que ninguno de los jugadores pueda seguirse descartando de sus fichas, ganará el jugador que contando los números que poseen sus fichas, tenga menor valor.",
+    "Material_necesario": "Un dominó."
+  },
+  {
+    "idActividad": 4,
+    "Nombre_Actividad": "Dominó parejas",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "De 2 a 4 jugadores",
+    "Descripción_actividad": "Colocamos las 28 fichas que componen un dominó boca arriba, y las mezclamos. Cada jugador debe buscar dos fichas que tengan en sus dos lados el mismo número de puntos. Cuando consigan esto, deberán buscar dos fichas que tengan en uno de sus lados solo un punto. Continuaremos buscando dos fichas que tengan solo dos puntos y así sucesivamente.",
+    "Material_necesario": "Un dominó."
+  },
+  {
+    "idActividad": 5,
+    "Nombre_Actividad": "Bingo",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "En este juego debe haber una persona que obtenga las bolas, de forma aleatoria, de las 90 disponibles y se encargue de anunciar el número que ha obtenido. Cada uno de los demás participantes tendrá que tener en su poder como mínimo un cartón para ir marcando los números que el portavoz vaya mencionando. Una vez el jugador haya marcado todos los números de su cartón, deberá decir en alto 'BINGO'. Este será el ganador del juego.",
+    "Material_necesario": "Las 90 bolas del bingo y cartones con los números aleatorios."
+  },
+  {
+    "idActividad": 6,
+    "Nombre_Actividad": "Bingo ordenado",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Pondremos las bolas del Bingo del número 1 al número 40 boca arriba. El primer jugador deberá buscar todas las bolas que solo contengan un número, es decir, los números del 1 al 9. El siguiente jugador deberá buscar las bolas que contengan números que terminen en 1, y así sucesivamente.",
+    "Material_necesario": "Las 90 bolas del bingo."
+  },
+  {
+    "idActividad": 7,
+    "Nombre_Actividad": "La Ronda Robada",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Se reparten 3 cartas de la baraja a cada jugador, y se colocan 4 cartas sobre la mesa, boca arriba. El jugador debe intentar recolectar el mayor número de cartas posibles, para eso debe tirar una carta que sea del mismo número de las que están en la mesa y de ese modo poder hacer pareja y llevársela. Además, si por ejemplo el jugador tira una carta de número 4 y en la mesa hay cartas de números 4 y 5, entonces emparejaría 4 con 4 y cogería después la de número 5, ya que sería la continua. De igual modo, podríamos robar las de nuestros contrincantes si tienen los números de continuación en la parte alta de su montón de cartas. Si ninguna de nuestras cartas tiene pareja sobre la mesa, tiraremos una al azar. Una vez hayamos jugado las tres cartas repartidas, se seguirán repartiendo 3 cartas a cada jugador hasta acabar la baraja. Ganará el jugador, que al terminar la baraja haya conseguido reunir más cartas en su montón.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 8,
+    "Nombre_Actividad": "Busca la pareja",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Colocaremos toda la baraja de cartas boca abajo sobre la mesa. Debemos coger cada uno 3 cartas. Una vez todos hayamos elegido nuestras cartas, daremos la vuelta a todas las que quedan en la mesa. Tendremos que intentar localizar una pareja para cada una de las cartas que hemos elegido anteriormente. Estas parejas las formaremos, buscando una carta con el mismo número que la que tenemos en la mano, lo que de diferente palo. Por ejemplo, si habíamos cogido el 5 de oro, podremos coger ahora para formar la pareja, el 5 de copas, el 5 de espadas o el 5 de bastos. El primer jugador que consiga formar sus tres parejas será el ganador del juego.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 9,
+    "Nombre_Actividad": "Recopila cartas",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Colocaremos todas las cartas de la baraja boca arriba. Debemos intentar agrupar las cartas según el palo de estas cartas. Es decir, todas las cartas que contengan oros tendremos que ponerlas en un mismo montón, las de espadas en otro montón, y así sucesivamente.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 10,
+    "Nombre_Actividad": "Recopila cartas por números",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Colocaremos todas las cartas de la baraja boca arriba. Debemos intentar agrupar las cartas según el número de estas cartas. Es decir, primero juntaremos las cuatro cartas que tienen el número 1, después buscaremos las cuatro cartas que tienen el número 2. Y así sucesivamente, hasta llegar a juntar las cuatro cartas de reyes.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 11,
+    "Nombre_Actividad": "Cinquillo",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "De 2 a 4 jugadores",
+    "Descripción_actividad": "Repartimos todas las cartas entre los jugadores. El que posea la carta del cinco de oros, será el primero en jugar, colocando la carta en el centro de la mesa. Continuará el jugador que se encuentra a su derecha. Solo se podrán tirar más cincos, o las cartas que siguen la progresión ascendente o descendente de las que hay en la mesa y sean del mismo palo. Por ejemplo, en el caso de que solo esté en la mesa el cinco de oro, podremos tirar el 4 o 6 de oro, o en otro caso, otro 5 de otro palo. Si no tenemos ningunas de las cartas que se pueden tirar, tendremos que pasar el turno. No podemos pasar el turno si tenemos cartas que podemos colocar. El ganador de este juego, será el primero en descartarse.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 12,
+    "Nombre_Actividad": "Veo Veo",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores se fija en uno de los objetos que tiene a la vista y dice: 'veo veo'. Los demás jugadores deben responder: '¿qué ves?'. A lo que el primero debe responder: 'una cosita de color…', aquí deberá decir el color del objeto en el que se había fijado. Los demás jugadores irán diciendo objetos de ese color. Ganará el participante que adivine el objeto que el primer jugador había pensado.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 13,
+    "Nombre_Actividad": "Veo Veo colores",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a colocar 4 objetos sobre la mesa. Uno de los jugadores se fija en uno estos objetos y dice: 'veo veo'. Los demás jugadores deben responder: '¿qué ves?'. A lo que el primero debe responder: 'una cosita de color…', aquí deberá decir el color del objeto en el que se había fijado. Los demás jugadores irán diciendo objetos de ese color que están sobre la mesa. Ganará el participante que adivine el objeto que el primer jugador había pensado.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 14,
+    "Nombre_Actividad": "Petanca",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Deporte",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Para comenzar lanzaremos la pelota más pequeña, en una superficie que tengamos amplia y sin obstáculos. A continuación, cada jugador deberá lanzar una pelota, intentando acercarse lo más posible a la primera que se lanzó. Ganará cada ronda el que más consiga acercarse a la primera pelota. Podemos repetir esto hasta que alguien consiga sumar 5 rondas ganadas.",
+    "Material_necesario": "Una pelota más pequeña y más pelotas de un tamaño mayor"
+  },
+  {
+    "idActividad": 15,
+    "Nombre_Actividad": "Parejas de naipes",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Colocaremos las 40 cartas de la baraja española boca abajo, formando 4 filas y 10 columnas. Una vez tengamos esto, levantaremos dos cartas, si son del mismo número las guardamos, sino debemos volver a colocarlas boca abajo. Si hemos acertado, repetimos jugada. En el caso de que no hayamos acertado, pasamos al siguiente jugador. Ganará la persona que consiga más parejas de cartas con el mismo número.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 16,
+    "Nombre_Actividad": "Parejas de naipes, boca arriba",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Colocaremos las 40 cartas de la baraja española boca arriba, formando 4 filas y 10 columnas. Una vez tengamos esto, levantaremos dos cartas, si son del mismo número las guardamos, sino debemos volver a colocarlas donde iban, dejándolas boca arriba. Si hemos acertado, repetimos jugada. En el caso de que no hayamos acertado, pasamos al siguiente jugador. Ganará la persona que consiga más parejas de cartas con el mismo número.",
+    "Material_necesario": "Baraja de cartas españolas"
+  },
+  {
+    "idActividad": 17,
+    "Nombre_Actividad": "Simón dice",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 3 personas",
+    "Descripción_actividad": "Uno de los jugadores va a ser quién dirija este juego y se llamará Simón. Esta persona se encargará de dar órdenes que los demás tienen que cumplir. Esto lo tendrá que hacer diciendo, 'Simón dice …'. Por ejemplo, 'Simón dice canta', y todos cantan, sino pierden. Pero si Simón solo dice 'canta' y alguien canta, esa persona esta eliminada. Ganará quién quede último.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 18,
+    "Nombre_Actividad": "Tres en raya",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "2 jugadores",
+    "Descripción_actividad": "En primer lugar, en la hoja, debemos hacer una cuadrícula de 3x3. Cada jugador elige una forma, uno deberá dibujar 'X' y el otro 'O'. Comenzará uno de los jugadores escribiendo su símbolo en una de las casillas de la cuadrícula construida. Continuando el siguiente jugador. La finalidad de este juego es conseguir colocar nuestra marca 3 veces seguidas, ya sea de forma horizontal, diagonal o vertical. A la vez, debemos evitar que nuestro contrincante consiga colocar sus tres marcas seguidas.",
+    "Material_necesario": "Papel y bolígrafo"
+  },
+  {
+    "idActividad": 19,
+    "Nombre_Actividad": "Adivina qué es",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a ocultar un objeto en una bolsa oscura, que no permita ver lo que hay dentro. Mediante el tacto, el otro jugador deberá averiguar de que objeto se trata. El jugador que está averiguando el objeto tendrá cinco posibilidades para acertar. Podemos ir guiando a la persona que esta averiguando el objeto o por el contrario permanecer callados.",
+    "Material_necesario": "Bolsa oscura y objetos para adivinar"
+  },
+  {
+    "idActividad": 20,
+    "Nombre_Actividad": "Adivina qué objeto es",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Tenemos que decidir que tres objetos participan en el juego y colocarlos sobre la mesa. Cuando ya sabemos que objetos participan, vamos a ocultar uno de estos objetos en una bolsa oscura, que no permita ver lo que hay dentro. Mediante el tacto, el otro jugador deberá averiguar de que objeto se trata. Le daremos 3 opciones para averiguar el objeto que esta oculto.",
+    "Material_necesario": "Bolsa oscura y objetos para adivinar"
+  },
+  {
+    "idActividad": 21,
+    "Nombre_Actividad": "Adivina quién",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 3 personas",
+    "Descripción_actividad": "Le vendaremos los ojos a uno de los jugadores. Este jugador deberá adivinar de quién es la voz de la persona que está hablando, mientras la persona que habla distorsiona la voz.",
+    "Material_necesario": "Un trozo de tela para vendar los ojos"
+  },
+  {
+    "idActividad": 22,
+    "Nombre_Actividad": "Adivina a qué huele",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Cocina, Jardinería",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a colocar objetos o sustancias en recipientes. Taparemos los ojos de uno de los jugadores. Este deberá adivinar que hay dentro del recipiente mediante el olfato. Ejemplo de cosas que podemos colocar en estos recipientes: café, canela, limón, una flor, ... Ganará la persona que más objetos consiga adivinar.",
+    "Material_necesario": "Objetos, recipientes y un trozo de tela para vendar los ojos"
+  },
+  {
+    "idActividad": 23,
+    "Nombre_Actividad": "Adivina a qué olor te recuerda",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Cocina, Jardinería",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Debemos elegir que tres objetos o sustancias van a participar en nuestro juego y mostrárselas a todos los participantes. Vamos a colocar estos objetos o sustancias en recipientes. Taparemos los ojos de uno de los jugadores. Este deberá adivinar que hay dentro del recipiente mediante el olfato. Ejemplo de cosas que podemos colocar en estos recipientes: café, canela, limón, una flor, ... Ganará la persona que más objetos consiga adivinar.",
+    "Material_necesario": "Objetos, recipientes y un trozo de tela para vendar los ojos"
+  },
+  {
+    "idActividad": 24,
+    "Nombre_Actividad": "Adivina el artista",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Música",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Buscaremos canciones de la época de nuestros mayores. Pondremos pequeños trocitos de estas canciones, y los jugadores deberán adivinar de qué artista es la canción. Esto lo repetiremos con 10 canciones, ganará la persona que más artistas consiga adivinar.",
+    "Material_necesario": "Un móvil o dispositivo electrónico en el que se pueda poner música"
+  },
+  {
+    "idActividad": 25,
+    "Nombre_Actividad": "Continua el refrán",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Decimos en alto la primera mitad de un refrán y la otra persona debe finalizarlo. Ganará la persona que más refranes consiga finalizar. Podemos añadirle dificultad a este juego estableciendo un tiempo máximo de respuesta.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 26,
+    "Nombre_Actividad": "Puzles de refranes escritos",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a escribir en papel refranes que recordemos. Una vez escritos los cortaremos por la mitad del refrán. Los pondremos sobre una mesa y los mezclaremos. Cada jugador deberá intentar conseguir las dos partes que componen un refrán. Ganará el jugador que consiga reunir más refranes.",
+    "Material_necesario": "Papel, tijeras y bolígrafo"
+  },
+  {
+    "idActividad": 27,
+    "Nombre_Actividad": "Continuamos puzles de refranes escritos",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "El familiar o tutor deberá construir puzles de refranes. Es decir, se encargará de escribir en papel refranes comunes y partirlos por la mitad. Una vez ya tengamos esta parte hecha, haremos participar a nuestros mayores. Colocaremos todos los finales de los refranes sobre la mesa boca arriba. Le entregaremos el inicio de uno de los refranes al participante, y este tendrá que buscar sobre la mesa el final del refrán que le corresponde. El que consiga formar más refranes correctamente será el ganador.",
+    "Material_necesario": "Papel, tijeras y bolígrafo"
+  },
+  {
+    "idActividad": 28,
+    "Nombre_Actividad": "Formemos palabras",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "El familiar o tutor se encargará de escribir en cartulina o goma eva sílabas de palabras. Por ejemplo, si queremos formar zapato, deberá construir tres trozos de cartulina y en cada una de ellas escribir una de las siguientes sílabas: za-pa-to. Los trozos de cartulina que hayamos construido los pondremos sobre la mesa desordenados y le pediremos a nuestro mayor que construya la palabra correcta.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 29,
+    "Nombre_Actividad": "Palabras encadenadas",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a encadenar palabras, de tal manera que un jugador dice una palabra y el siguiente debe utilizar la última sílaba de esta y usarla para decir una palabra que comience por esta sílaba. Ejemplo: co-me-ta, ta-za, za-pa-to",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 30,
+    "Nombre_Actividad": "Cada oveja con su pareja",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Colocaremos sobre la mesa diferentes tipos de objetos. Los diferentes jugadores deben asociar estos objetos según el grupo al que pertenezcan. Ejemplos de objetos que podemos poner, cereales, botones, legumbres, objetos para escribir, …",
+    "Material_necesario": "Objetos diferentes"
+  },
+  {
+    "idActividad": 31,
+    "Nombre_Actividad": "Cada oveja con su pareja o familia",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Colocaremos sobre la mesa objetos de diferentes formas. Por ejemplo, cartas, fichas de dominó, fichas de parchís, botones, canicas, garbanzos,… Los jugadores deberán encargarse de organizar los objetos según la forma de estos. Por ejemplo, en este caso juntaremos las cartas y las fichas de dominó por tener forma rectangular. También podemos repetir el mismo juego, pero en lugar de basarnos en las formas, fijarnos en los colores.",
+    "Material_necesario": "Objetos diferentes"
+  },
+  {
+    "idActividad": 32,
+    "Nombre_Actividad": "Lanzamiento de objetos",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "En un lugar que tengamos espacio, vamos a dibujar unas marcas en el suelo que corresponden a diferentes puntuaciones, por ejemplo, 2,5,10. Este juego consiste en que cada persona lance 3 objetos y contar los puntos que obtiene. Ganará la persona que más puntos obtenga. Para añadir dificultad, podemos aumentar las distancias entre las marcas que hacemos e incluso podemos lanzar los objetos con el brazo menos diestro.",
+    "Material_necesario": "Objetos para lanzar, por ejemplo aros o pelotas. Algo que permita hacer marcas en el suelo, podemos utilizar cinta adhesiva y así se puede quitar después de jugar fácilmente."
+  },
+  {
+    "idActividad": 33,
+    "Nombre_Actividad": "Dardos",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Lanzaremos los dardos a la diana. Posteriormente, sumaremos las cantidades que marcan las zonas donde han caído nuestros dardos. Ganará el jugador que más puntos consiga sumar. Para evitar riesgos deberíamos usar dianas imantadas o con velcros. Hay versiones de dianas en las que lanzamos pelotas en lugar de dardos.",
+    "Material_necesario": "Diana y dardos o pelotas de velcro"
+  },
+  {
+    "idActividad": 34,
+    "Nombre_Actividad": "Pasar la pelota",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Nos vamos colocando por parejas, uno frente al otro. Si somos un número impar de jugadores, vamos intercambiándonos. Este juego consiste en pasar la pelota de un jugador a otro con las dos manos. Para añadir dificultad, aumentaremos la distancia e inclusive el jugador debe tocarse la nariz, oreja o rodilla antes de recoger la pelota que le pasa el otro jugador. En este caso perderá la persona a la que se le caiga la pelota.",
+    "Material_necesario": "Pelota"
+  },
+  {
+    "idActividad": 35,
+    "Nombre_Actividad": "Somos espejo",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores será el que dirija la actividad. Este jugador deberá ir haciendo movimientos y los demás jugadores deberán imitar estos movimientos, como si de un espejo se tratase. Se descalificará al jugador que se equivoque y no imite correctamente los movimientos. Ganará el jugador que quede último.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 36,
+    "Nombre_Actividad": "Estatua, ¿te mueves?",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores se quedará inmóvil, como una estatua. Los demás deben memorizar la posición de nuestra estatua y se girarán, quedando de espaldas a la 'estatua'. Nuestra estatua deberá hacer algún cambio en su posición. Los demás, deberán girarse y quedarán mirando nuevamente a la estatua. Deberán acertar que es lo que ha cambiado en nuestra estatua.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 37,
+    "Nombre_Actividad": "La brújula",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 3 personas",
+    "Descripción_actividad": "Uno de los jugadores actuará de coordinador. Este se encargará de decir en alto una de estas palabras: derecha, izquierda, delante o atrás. Los demás jugadores al escuchar lo que dice el coordinador deberán girarse en esa dirección derecha e izquierda, o moverse delante o atrás. En el caso de que el jugador no acierte en su movimiento quedará descalificado. Ganará el jugador que quede último jugando.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 38,
+    "Nombre_Actividad": "Encuentra la palabra",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "El familiar o tutor deberá escribir palabras en diferentes trozos de cartulinas. Deberán buscar palabras con alguna relación, ya que se trata de encontrar su pareja. Por ejemplo, podemos escribir 'pera' en uno de los trozos de cartulina, y como pareja suya podríamos escribir en otra cartulina, 'manzana' o 'verde'. Cuando se tengan varias parejas de palabras ya escritas en las cartulinas las pondremos en la mesa boca arriba y le pediremos a nuestro mayor que trate de encontrar las parejas.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 39,
+    "Nombre_Actividad": "Encuentra la palabra similar",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "En este juego uno de los participantes dirá en alto una palabra y los demás deberán encontrar palabras similares. Por ejemplo, si decimos manzana, podríamos decir: pera, Blancanieves o manzano. Si un jugador no encuentra palabra con la que asociar a la mencionada en primer lugar, quedará descalificado. Ganará el jugador que quede último.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 40,
+    "Nombre_Actividad": "Inventa una historia",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores dirá tres palabras en alto, el jugador que se encuentre a su derecha deberá inventar una historia con estas tres palabras. A continuación, este dirá tres palabras que deberá usar el jugador de su derecha para crear una nueva historia. Así sucesivamente.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 41,
+    "Nombre_Actividad": "Inventa una historia con la palabra",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores dirá una palabra en alto, el jugador que se encuentre a su derecha deberá inventar una historia con esta palabra. A continuación, este dirá una palabra diferente, que deberá usar el jugador de su derecha para crear una nueva historia. Así sucesivamente.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 42,
+    "Nombre_Actividad": "Nuestro Puzle",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Manualidad, Pintar",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "En una cartulina vamos a hacer un dibujo, que ocupe todo el espacio. Una vez terminado el dibujo, dividiremos la cartulina en diferentes trozos, podemos darles forma de piezas de puzle, o simplemente darles forma recta. Lo dividiremos en 15 trozos o más. Cuando ya estén dibujadas las diferentes piezas, procederemos a recortarlas. Una vez hemos recortado todos los trozos, hemos formado un puzle. Ahora podemos intentar montar nuestro Puzle.",
+    "Material_necesario": "Una cartulina o folio, unas tijeras y colores para pintar."
+  },
+  {
+    "idActividad": 43,
+    "Nombre_Actividad": "Nuestro Pequeño Puzle",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Manualidad, Pintar",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "En una cartulina vamos a hacer un dibujo, que ocupe todo el espacio. Una vez terminado el dibujo, dividiremos la cartulina en diferentes trozos, podemos darles forma de piezas de puzle, o simplemente darles forma recta. Vamos a dividirlo en 6 piezas. Cuando ya estén dibujadas las diferentes piezas, procederemos a recortarlas. En este caso, la recortará el familiar o tutor. Una vez hemos recortado todos los trozos, hemos formado un puzle. Ahora nuestro mayor puede intentar formar el puzle.",
+    "Material_necesario": "Una cartulina o folio, unas tijeras y colores para pintar."
+  },
+  {
+    "idActividad": 44,
+    "Nombre_Actividad": "Encuentra las hojas",
+    "Categoría": "Actividades Físicas, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Manualidad, Deporte, Jardinería",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a realizar una caminata en la que debemos buscar tres hojas de plantas diferentes. Cuando la caminata finalice, debemos pegarlas en un folio o cartulina, y escribir debajo a la planta que pertenecen.",
+    "Material_necesario": "Un folio o cartulina, pegamento y bolígrafo."
+  },
+  {
+    "idActividad": 45,
+    "Nombre_Actividad": "Encuentra las hojas y colorea",
+    "Categoría": "Actividades Físicas, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Manualidad, Deporte, Jardinería",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a realizar una caminata en la que debemos buscar tres hojas de plantas diferentes. Cuando la caminata finalice, debemos pegarlas en un folio o cartulina, y colorear el borde de cada hoja de un color diferente.",
+    "Material_necesario": "Un folio o cartulina, pegamento y bolígrafo."
+  },
+  {
+    "idActividad": 46,
+    "Nombre_Actividad": "Desde el lado contrario",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Durante el tiempo que propongamos, puede ser media hora, una hora o ir ampliando, realizaremos todas las actividades rutinarias con la mano no dominante. Ejemplo de estas actividades pueden ser abrir puertas, abrir el grifo, colorear, … Desde que usemos nuestra mano diestra habremos perdido el juego.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 47,
+    "Nombre_Actividad": "Desde el lado contrario, poco a poco",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "El familiar o tutor se encargará de indicar alguna tarea al mayor, y este segundo tendrá que realizarla con la mano menos diestra. Por ejemplo, le podemos pedir: 'abrir la ventana', 'coger el mando de la tele', … Tendrá que utilizar la mano derecha si es zurdo o la izquierda en el caso de ser diestro.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 48,
+    "Nombre_Actividad": "Ejercicios cruzados",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Sentados en una silla, vamos a intentar tocar la rodilla izquierda, mientras la levantamos, con la mano derecha. Esto lo repetiremos 10 veces. También lo intentaremos con la rodilla derecha y la mano izquierda. Para hacerlo más entretenido, si somo dos personas podemos colocarnos una frente a otra. Lo vamos haciendo intercaladamente y quién se equivoque antes, pierde.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 49,
+    "Nombre_Actividad": "Pelotas con historia",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Deporte, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Esta actividad consiste en irnos pasando la pelota de unos a otros. En el momento que nos toca la pelota, debemos contar una experiencia feliz que hayamos tenido. Esta historia puede ser de nuestra infancia, un día que no has olvidado o incluso alguna actividad que hayas realizado recientemente. Una vez termines de contar la historia, pasamos la pelota a la siguiente persona.",
+    "Material_necesario": "Una pelota."
+  },
+  {
+    "idActividad": 50,
+    "Nombre_Actividad": "Pelotas que nos cuentan gustos",
+    "Categoría": "Juegos, Actividades Físicas",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Deporte",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Esta actividad consiste en irnos pasando la pelota de unos a otros. En el momento que nos toca la pelota, debemos decir en alto algo que nos guste, por ejemplo: las golosinas, las fresas, ir a la playa, … Cuando hayamos dicho en alto algo que nos gusta, pasaremos la pelota a otra persona y esta tendrá que decir lo que le gusta en voz alta.",
+    "Material_necesario": "Una pelota."
+  },
+  {
+    "idActividad": 51,
+    "Nombre_Actividad": "Recuerdos felices",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Lectura, Teatro",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Cogemos tres trozos de folio o cartulina. En cada uno, vamos a tener que escribir momentos felices que recordemos. Podemos escribir una frase o simplemente una palabra que recuerde ese momento. Una vez los tengamos escritos, los ponemos en un recipiente, y una mano inocente, sacará uno de los papeles y lo leerá en alto. El participante al que pertenece el papel tendrá que contarnos la historia que refleja esa palabra o frase.",
+    "Material_necesario": "Papel y bolígrafo"
+  },
+  {
+    "idActividad": 52,
+    "Nombre_Actividad": "Actividades diarias",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Manualidad, Pintar",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a coger una cartulina o goma eva y haciendo uso de un bolígrafo la dividiremos en tres partes. Estas partes corresponderán a mañana, tarde y noche. Con otra cartulina o goma eva, vamos a recortar trozos de aproximadamente 4 centímetros de ancho por 10 centímetros de largo. En cada uno de estos trozos, vamos a escribir actividades que realizamos rutinariamente. Ejemplos de estas actividades pueden ser: desayunar, comer, cenar, ducharnos, cepillarnos los dientes,... Cuando ya tenemos las actividades escritas les vamos a añadir por detrás cinta de doble cara o pegamento y las vamos a colocar en la zona que corresponden. Es decir, el trozo que pone desayuno, deberá ir en la zona de mañana de la cartulina principal. Esto podemos usarlo diariamente para ir colocando los trozos una vez realicen cada actividad al día, permitiendo crear una rutina.",
+    "Material_necesario": "Cartulina o goma eva, colores, tijeras y pegamento o cinta de doble cara."
+  },
+  {
+    "idActividad": 53,
+    "Nombre_Actividad": "Actividades básicas diarias",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Manualidad, Pintar",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a coger una cartulina o goma eva y haciendo uso de un bolígrafo la dividiremos en tres partes. Estas partes corresponderán a mañana, tarde y noche. Con otra cartulina o goma eva, vamos a recortar trozos de aproximadamente 4 centímetros de ancho por 10 centímetros de largo. En cada uno de estos trozos, vamos a escribir actividades que realizamos rutinariamente. Ejemplos de estas actividades pueden ser: desayunar, comer, cenar, ducharnos, cepillarnos los dientes,... Cuando ya tenemos las actividades escritas les vamos a añadir por detrás cinta de doble cara o pegamento. Le preguntaremos a nuestro mayor donde debemos colocar cada una de estas actividades, por ejemplo: para la actividad desayunar, le preguntaremos, ¿desayunamos por la mañana o por la noche?. Haremos preguntas concretas, dando dos opciones de respuesta. Incluso podríamos hacer preguntas más específicas: ¿desayunar lo colocamos en la noche?, para que solo puedan responder sí o no.",
+    "Material_necesario": "Cartulina o goma eva, colores, tijeras y pegamento o cinta de doble cara."
+  },
+  {
+    "idActividad": 54,
+    "Nombre_Actividad": "Calendario mensual",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Pintar",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Crearemos nuestro propio calendario mensual. Cogeremos una cartulina o goma eva y la vamos a dividir en 7 columnas, cada columna corresponderá a un día de la semana. Y en 6 filas, cada fila, corresponderá a una semana de nuestro mes. Una vez tengamos todas las casillas creadas, vamos a escribir en la parte superior de las columnas los días de la semana. Además, en las casillas colocaremos los números del día. Para ello debemos buscar el mes en el que estamos para saber en qué día debemos empezar con el número 1. Una vez ya tenemos creado todo el mes, podemos añadir algunas de las tareas que debemos recordar para nuestro mes, por ejemplo, citas médicas, el cumpleaños de alguna persona especial, o alguna comida que tengamos programada. Incluso, si queremos añadir dificultad, podemos caracterizar estas casillas de eventos especiales, por ejemplo el día que tenemos un cumpleaños, dibujar una tarta.",
+    "Material_necesario": "Cartulina o goma eva y colores."
+  },
+  {
+    "idActividad": 55,
+    "Nombre_Actividad": "Recuerdos en imágenes",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Lectura, Teatro",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Buscaremos fotografías que tengamos de hace años. Principalmente, imágenes de nuestros mayores de más jóvenes. Las colocaremos boca abajo en la mesa. Cada uno debe ir cogiendo una fotografía. Una vez hemos cogido la fotografía, nuestro mayor debe recordar algo de la fotografía. Puede ser válido recordar si se hizo porque era un día especial, recordar quienes son las personas que le acompañan en la fotografía o que nos cuente una historia que ocurrió el día de la fotografía.",
+    "Material_necesario": "Fotografías antiguas."
+  },
+  {
+    "idActividad": 56,
+    "Nombre_Actividad": "¿Qué historia te imaginas?",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Lectura, Teatro",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Utilizaremos fotografías que tengamos por casa. Para ello cada uno debe elegir tres fotografías de las que estén disponibles. Una vez hayamos elegido las fotografías, tendremos 5 minutos de tiempo para inventarnos una historia. Terminado este tiempo el participante se coloca de pie y nos narrará la historia que ha creado, basándose en las fotografías elegidas.",
+    "Material_necesario": "Fotografías antiguas."
+  },
+  {
+    "idActividad": 57,
+    "Nombre_Actividad": "¿Qué historia te imaginas o imaginamos?",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Lectura, Teatro",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Utilizaremos fotografías que tengamos por casa. Para ello cada uno debe elegir una fotografía de las que estén disponibles. Una vez hayamos elegido la fotografía, podemos inventarnos que trabajo realizaba la persona de la fotografía, o en el caso de ser un niño cuál era su juego favorito. El adulto o tutor puede ayudar a crear la historia.",
+    "Material_necesario": "Fotografías antiguas."
+  },
+  {
+    "idActividad": 58,
+    "Nombre_Actividad": "Lectura dinámica",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores va a elegir una revista o libro de los que tengamos por casa. Va a tener que leer un párrafo o reportaje si ocupa menos de medio folio. Cuando haya terminado la lectura, cerraremos el libro o revista. Nos encargaremos de hacer 5 preguntas sobre la lectura realizada, la dificultad de las preguntas dependerá del estado de nuestros mayores. Las respuestas a estas preguntas las iremos apuntando en un folio diferente cada uno de los participantes. Ganará el participante que acierte más preguntas.",
+    "Material_necesario": "Revista o libro, folios y bolígrafos"
+  },
+  {
+    "idActividad": 59,
+    "Nombre_Actividad": "Lectura o escucha dinámica",
+    "Categoría": "Juegos",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Juegos, Lectura",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Uno de los jugadores va a elegir una revista o libro de los que tengamos por casa. Va a tener que leer un párrafo o reportaje si ocupa menos de medio folio. En el caso de que nuestro mayor no sepa leer o ya no pueda, lo hará el familiar o tutor. Cuando haya terminado la lectura, cerraremos el libro o revista. Nos encargaremos de hacer preguntas concretas sobre la lectura, por ejemplo, si en la lectura había una niña rubia, la pregunta podría ser: ¿la niña de la historia era rubia o morena?, o inclusive preguntas más concretas: ¿la niña era rubia?, ya que las respuestas en este caso sería sí o no.",
+    "Material_necesario": "Revista o libro"
+  },
+  {
+    "idActividad": 60,
+    "Nombre_Actividad": "Árbol genealógico",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Manualidad, Pintar",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "En un folio o cartulina, crearemos un árbol genealógico, esto es una representación visual de los miembros de la familia y la forma de relacionarse entre sí. De tal forma que los antepasados se encontrarán de forma ascendentes, y los descendentes de forma descendiente. Para representar a cada uno de los familiares en este árbol podemos usar simplemente sus nombres, hacer un dibujo representativo de cada uno o incluso hacer uso de fotografías. Cuando ya tenemos el árbol genealógico terminado, podemos hacer preguntas sobre el parentesco de las distintas personas que se encuentran en él. Por ejemplo, ¿quiénes son los padres de...?, ¿cuántos hijos tenían...?",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 61,
+    "Nombre_Actividad": "Colección de flores",
+    "Categoría": "Actividades Físicas, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Manualidad, Deporte, Jardinería",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Mientras realizamos una caminata por la calle, debemos buscar 3 flores diferentes. Una vez lleguemos a casa vamos a colocarlas en una cartulina, escribiendo debajo de cada una de estas flores algunas de sus características, como, por ejemplo: su nombre, color, número de pétalos,...",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 62,
+    "Nombre_Actividad": "Colección de flores y colores",
+    "Categoría": "Actividades Físicas, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Manualidad, Deporte, Jardinería, Pintar",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Mientras realizamos una caminata por la calle, debemos buscar 3 flores diferentes. Una vez lleguemos a casa vamos a colocarlas en una cartulina y deberemos hacer un círculo alrededor de la flor, del mismo color de esta.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 63,
+    "Nombre_Actividad": "Pongamos orden",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a dividir una receta de cocina en varios pasos. Por ejemplo, hacer pasta con salsa de tomate. Lo dividiremos en: 'encender el fuego', 'poner agua a hervir', 'poner la pasta en el agua hirviendo', 'dejar guisar la pasta', 'escurrir la pasta', 'poner la salsa de tomate por encima de la pasta', 'revolver la pasta y la salsa', 'apagar el fuego', 'servir la pasta en el plato'. Estas frases las vamos a escribir en trozos de papel. Una vez ya hemos creado estos papeles con cada una de las tareas, podemos jugar a ordenar las tareas para saber en qué orden se tienen que realizar. Esto también lo podemos realizar con otro tipo de tareas como: plantar unas semillas, como nos duchamos, ... Cualquier tarea que implique más de dos pasos.",
+    "Material_necesario": "Folio y bolígrafo"
+  },
+  {
+    "idActividad": 64,
+    "Nombre_Actividad": "Pongamos orden poco a poco",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Vamos a dividir una tarea diaria en varios pasos. La división de esta tarea no debe ser en más de tres pasos. Por ejemplo, fregar la loza. Lo dividiremos en: 'enjabonar la loza', 'echar agua a la loza', 'secar la loza'. Estas frases las vamos a escribir en trozos de papel. Una vez ya hemos creado estos papeles con los pasos de la tarea diaria, podemos jugar a ordenar la tarea para saber en qué orden se tiene que realizar.",
+    "Material_necesario": "Folio y bolígrafo"
+  },
+  {
+    "idActividad": 65,
+    "Nombre_Actividad": "La lista de la compra",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Cogemos un catálogo de algún supermercado. Vamos a recortar artículos que sean necesarios en la lista de la compra. Cogeremos un folio o cartulina, deberán colocar los artículos que sean necesarios en la compra y escribir debajo de la imagen su nombre, acompañado del precio que tenían en el catálogo. Una vez terminada la lista de la compra, podemos hacer preguntas como: ¿cuánto gastaremos en la compra?, ¿qué está más caro, la botella de agua o el paquete de pasta?, ...",
+    "Material_necesario": "Catálogo de supermercado, folio o cartulina, pegamento y bolígrafo."
+  },
+  {
+    "idActividad": 66,
+    "Nombre_Actividad": "Compra para la comida",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [0, 1],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Cogemos un catálogo de algún supermercado. Vamos a decidir una receta de cocina como, por ejemplo: pasta con salsa de tomate. Tendremos que buscar en el catálogo los artículos que necesitaríamos para realizar esta receta. Los recortamos y lo vamos pegando en un folio o cartulina. Debajo de cada artículo anotaremos su nombre y precio. Cuando hayamos terminado de preparar nuestra lista de productos necesarios para la receta de cocina, podemos hacer preguntas, como, por ejemplo: ¿cuánto dinero gastaríamos en hacer esta receta?, ¿qué producto de los que necesitamos para la receta es el más caro?, ¿cuál es el más barato?, ...",
+    "Material_necesario": "Catálogo de supermercado, folio o cartulina, pegamento y bolígrafo."
+  },
+  {
+    "idActividad": 67,
+    "Nombre_Actividad": "Compra para la comida básica",
+    "Categoría": "Juegos, Manualidad",
+    "Fase_del_Alzheimer": [2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Cogemos un catálogo de algún supermercado. Vamos a pedirle a nuestros mayores que busquen determinados artículos en el catálogo, por ejemplo: arroz, leche, agua, … Posteriormente recortaremos los artículos que vamos encontrando y los pegaremos en un folio o cartulina.",
+    "Material_necesario": "Catálogo de supermercado, folio o cartulina, pegamento y bolígrafo."
+  },
+  {
+    "idActividad": 68,
+    "Nombre_Actividad": "Labores del hogar",
+    "Categoría": "Actividades Físicas",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Juegos",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Nos encargaremos de desempeñar tareas cotidianas del hogar. Dependiendo de la autonomía de nuestros mayores estableceremos diferentes tareas. Por ejemplo, el familiar o cuidador fregará la loza, mientras el mayor se encarga de secar la loza. El familiar o cuidador va retirando los objetos de los muebles y el mayor va pasando el trapo para retirar el polvo. Entre el familiar o cuidador y el mayor, se encargarán de tender la ropa.",
+    "Material_necesario": "Nada"
+  },
+  {
+    "idActividad": 69,
+    "Nombre_Actividad": "Collares divertidos",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Vamos a necesitar macarrones en crudo. Colorearemos estos macarrones de los colores que queramos, utilizando temperas, acuarelas o rotuladores. Podemos decorarlas con purpurina, o incluso pegándole piedras o cualquier complemento que tengamos por casa. Hagamos uso de la imaginación. Cuando hayamos decorado estos macarrones, los dejamos secar. Posteriormente, necesitaremos un hilo o cordón por el que ir pasando los distintos macarrones, hasta conseguir el largo necesario para crear un collar. También podríamos hacer pulseras.",
+    "Material_necesario": "Macarrones, temperas, acuarelas o rotuladores, pegamento y cordón."
+  },
+  {
+    "idActividad": 70,
+    "Nombre_Actividad": "Portaretratos de macarrones",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Vamos a necesitar macarrones en crudo. Colorearemos estos macarrones de los colores que queramos, utilizando temperas, acuarelas o rotuladores. Podemos decorarlas con purpurina, o incluso pegándole piedras o cualquier complemento que tengamos por casa. Una vez hayamos decorado los macarrones lo dejaremos secar. Vamos a elegir una foto que queramos enmarcar, ya sea para colocarla en casa o para hacer un regalo a un familiar o amigo. Ahora cogeremos un cartón o cartulina y marcaremos el rectángulo en el centro del tamaño de la foto que hemos elegido. Alrededor de este rectángulo que hemos marcado dejaremos un espacio de 4 centímetros por cada lado. Este espacio es el que vamos a rellenar con los macarrones que hemos decorado, dejando el hueco en el centro para colocar la foto. Cuando terminemos de pegar los macarrones, dejaremos secar y después colocaremos la foto en el centro.",
+    "Material_necesario": "Macarrones, temperas, acuarelas o rotuladores, pegamento, cartón o cartulina y una fotografía."
+  },
+  {
+    "idActividad": 71,
+    "Nombre_Actividad": "Portaretratos de hojas",
+    "Categoría": "Actividades Físicas, Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Jardinería",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Saldremos a caminar y buscaremos hojas secas. Para esta actividad debemos elegir una fotografía que queramos enmarcar, ya sea para hacer un regalo o para colocarla en casa. Dibujaremos en un cartón o cartulina el rectángulo del tamaño de la foto, dejando un borde por cada lado de 3 centímetros. Este margen lo rellenaremos con las hojas secas que hayamos encontrado en nuestra caminata previa. Si las hojas no nos dan para rellenar todo el marco, el resto podemos colorearlo o completarlo con piedras o complementos que tengamos. Cuando hayamos dejado secar todo el marco, pegaremos nuestra foto en el centro.",
+    "Material_necesario": "Cartón o cartulina, una fotografía, temperas, acuarelas o rotuladores, pegamento y hojas secas."
+  },
+  {
+    "idActividad": 72,
+    "Nombre_Actividad": "Portaretratos de botones",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Costura",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Tendremos que buscar una fotografía que queramos enmarcar o regalar a algún familiar o amigo. Buscaremos botones que tengamos sueltos por casa, piedras que nos sirvan para decorar o inclusive trozos de tela. Vamos a dibujar el rectángulo del tamaño de la foto elegida en un cartón o cartulina, dejando un margen de unos 3 centímetros por cada lado. Este margen vamos a decorarlo con todos los complementos que hemos conseguido para la decoración, también podemos ayudarnos de pinturas para decorar el margen. Una vez tengamos esto hecho, lo dejamos secar y posteriormente colocaremos la fotografía en el centro del marco.",
+    "Material_necesario": "Cartón o cartulina, una fotografía, temperas, acuarelas o rotuladores, pegamento y botones, piedras o trozos de tela."
+  },
+  {
+    "idActividad": 73,
+    "Nombre_Actividad": "Bastón de caramelo",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Utilizaremos pasta para moldear. Para poder moldear esta pasta podemos utilizar agua para humedecernos las manos. Cogemos un trocito de esta pasta y con las manos podemos darle la forma que deseemos fácilmente. En este caso, vamos a darle forma de los bastones de caramelo que son muy conocidos en las navidades. Una vez dada la forma, los dejaremos sobre una bandeja o una encimera para que puedan secarse. Será necesario dejarlo 24 horas para que estén bien secos antes de decorarlos. Estos bastones se caracterizan por combinar colores, normalmente suelen ser rojo y blanco, pero cada uno puede decidir el diseño que quiera. Utilizaremos temperas para poder colorearlos. Podemos darle varias capas de color, dejando que sequen bien entre capa y capa. Se le puede añadir purpurina o inclusive un lazo con alguna cinta que tengamos. Cuando ya estén secos podemos utilizarlos para decorar nuestro árbol en las próximas navidades.",
+    "Material_necesario": "Pasta para moldear, temperas y pinceles."
+  },
+  {
+    "idActividad": 74,
+    "Nombre_Actividad": "Estrellas",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Utilizaremos pasta para moldear. Para poder moldear esta pasta podemos utilizar agua para humedecernos las manos. Cogemos un trocito de esta pasta y con las manos podemos darle la forma que deseemos fácilmente. En este caso, vamos a darle la forma de una estrella. En una de las puntas haremos un agujero, ayudándonos de un palillo o incluso de un lápiz, para después poder pasar un cordón por ahí y colgarla. Si no conseguimos darle la forma deseada, recuerda mojar los dedos, de esa forma podrás moldearla mejor. Debemos dejar que se seque para poder pintarla, esto debe de ser por lo menos 24 horas. Cuando esté totalmente seca, podremos colorearla como deseemos. Ayúdate de purpurina, brillantes o algunas piedras que quieras añadirle para decorarla. Deja volar tu imaginación. Cuando termines, deja que seque y tendrás un nuevo adorno para tu habitación, un regalo para el próximo cumpleaños que venga o un detalle para regalar a quién más desees. Recuerda añadirle un hilo o cordón por el agujero que habíamos creado, así podrás colgarlo donde quieras.",
+    "Material_necesario": "Pasta para moldear, temperas, pinceles, hilo o cordón."
+  },
+  {
+    "idActividad": 75,
+    "Nombre_Actividad": "Pompones",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Costura",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Cortaremos dos círculos del mismo tamaño en cartón, por ejemplo, de 6 centímetros de diámetro. En el centro de cada uno de estos círculos, debemos hacer otros círculos centrados de por ejemplo 2 centímetros. Vamos a recortar el círculo del centro y nos quedaremos con dos círculos del mismo tamaño a los que le falta el centro. Ahora unimos los dos discos de cartón que tenemos y vamos a irlos cubriendo con lana. De tal modo, que la lana la metemos por el agujero del centro y la extendemos al exterior, hasta volverla a meter por el centro. Con esto vamos cubriendo todo el cartón, intentando que esté todo el cartón tapado y con el mismo grosor de lana. Cuando ya no podemos pasar más lana por el centro, ya que estará todo el agujero del centro repleto por lana, entonces haremos dos nudos a alguno de los trozos de lana que tenemos ya más sujeto. Cortamos el trozo de lana que va hacia el ovillo. Una vez tenemos esto hecho, con unas tijeras vamos a introducir por el lateral, la punta entre la lana, hasta llegar al centro que separa un cartón de otro. Iremos recortando toda la lana de tal modo que podríamos separar los dos cartones. Cuando hayamos recortado todo el borde y podamos separar los cartones, debemos coger un trozo de lana con el que podamos envolver toda la lana que queda entre los dos cartones y hacer dos nudos bien apretados. Cuando ya hemos hecho estos nudos que sostienen toda la lana, retiraremos por completo los cartones. Ya tenemos nuestro pompón, aunque aún queda perfeccionar la forma del pompón recortando las puntas de lana que quedan más largas, para que quede lo más igualado posible, por todos lados.",
+    "Material_necesario": "Lana, cartón y tijeras"
+  },
+  {
+    "idActividad": 76,
+    "Nombre_Actividad": "Arbolitos de fieltro",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Costura",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Dibujaremos en fieltro la forma de un arbolito de navidad. Tendremos que hacer dos figuras iguales, colocando una pieza sobre la otra. Las caras buenas las debemos dejar hacia fuera en los dos casos. Las sostenemos con alfileres para que no se separen. Empezaremos a coser el borde de nuestra figura, comenzando por la parte superior de la figura, de tal manera que las dos piezas queden unidas, para esto podemos usar cualquier punto que conozcamos, punto festón, punto sobrehilado,... A medida que vamos avanzando en la unión de las dos piezas, y vamos quitando los alfileres que sostenían las dos piezas juntas, vamos a ir introduciendo algodón entre estas, para que nos quede una figura con volumen. Cuando hayamos terminado de coser todo el borde de las piezas, de tal manera que la figura esté completamente cerrada y rellena de algodón, tendremos una figura para poder decorar nuestro árbol de navidad. También podremos decorar esta figura de fieltro añadiendo en las puntas del arbolito algunas pegatinas que tengamos, o incluso haciendo algunas bolitas con otro color de fieltro y pegándolas en nuestro árbol.",
+    "Material_necesario": "Fieltro, lápiz o bolígrafo, hilo, aguja, alfileres y algodón."
+  },
+  {
+    "idActividad": 77,
+    "Nombre_Actividad": "Palos de helados",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Pintar",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Cogemos palos de helados y los pintamos de color blanco con temperas o acuarelas. También podemos usar los palos de colores que se venden en las multitiendas o papelerías. Con estos palos vamos a crear la estructura de un muñeco de nieve. Colocaremos tres palos uno al lado de otro y los unimos con pegamento, este será el cuerpo de nuestra figura. Ahora recortaremos de fieltro o cartulina, un sombrero (dos rectángulos en negro, uno más fino y alargado que será la base del sombrero), unos ojos (círculos en color negro), la nariz (un trocito alargado que acabe en punta, simulando una zanahoria), la bufanda (dos rectángulos alargados en color rojo) y los botones que dan forma al cuerpo (dos círculos en color negro). Cuando lo tengamos todo recortado procedemos a pegarlo sobre el cuerpo de nuestro muñeco de nieves. Esta figura puede ser un regalo de cumpleaños, una decoración en nuestro cuarto o incluso una figura para añadir al árbol de las próximas navidades.",
+    "Material_necesario": "Palos de helados, temperas o acuarelas, pinceles, peagamento, fieltro o cartulina y tijeras"
+  },
+  {
+    "idActividad": 78,
+    "Nombre_Actividad": "Tarta de chuches",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Necesitaremos una base de corcho con la forma que queramos darle a nuestra tarta. Puede ser una forma circular o incluso una base cuadrada. Vamos a ir colocando golosinas alrededor de esta base ayudándonos con palillos. Hay que cubrir cada hueco de la base. Primero comenzaremos por el contorno de la tarta y después terminaremos la parte alta de la base. Con esto podremos participar en la preparación del cumpleaños de algún familiar o amigo.",
+    "Material_necesario": "Base de corcho, golosinas y palillos"
+  },
+  {
+    "idActividad": 79,
+    "Nombre_Actividad": "Brochetas de chuches",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Con palillos largos, de los que se usan para preparar pinchitos, vamos a elaborar brochetas de golosinas. Cogeremos golosinas del tipo de nubes, si son de distintos colores mejor, así quedará más colorido. En cada pincho vamos a pinchar tres nubes, combinando diferentes colores. Una vez completado el pincho lo colocamos en un vaso, de tal modo que las nubes queden hacia arriba. Prepararemos un par de pinchos y ya habremos colaborado en realizar una mesa de chuches para alguna fiesta en casa.",
+    "Material_necesario": "Palillos de pinchos y nubes de golosinas"
+  },
+  {
+    "idActividad": 80,
+    "Nombre_Actividad": "Brochetas de frutas",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "En primer lugar, vamos a preparar la fruta que vamos a utilizar en nuestras brochetas. Sería una buena opción combinar fresas y trozos de plátano. Aunque también podemos utilizar otras frutas como puede ser: melón, sandía, manzana, gajos de mandarina,… Una vez tengamos toda la fruta preparada, la vamos a ir insertando en cada palillo, de tal modo que combinemos primero una fruta y después otra. En cada palillo podemos poner cuatro trozos de fruta y después ir colocando estos palillos sobre una bandeja bonita, o incluso en un vaso, de tal modo que la fruta quede hacia arriba.",
+    "Material_necesario": "Palillos de pinchos y fruta troceada"
+  },
+  {
+    "idActividad": 81,
+    "Nombre_Actividad": "Fajitas dulces",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 2 jugadores",
+    "Descripción_actividad": "Colocaremos el pan de fajitas sobre un plato, y lo untaremos con la crema de chocolate que tengamos en casa. Esta crema la colocaremos en el centro, dejando los bordes sin crema para no mancharnos después. Una vez ya este la crema de chocolate puesta, vamos a colocar en el centro de esta fajita una línea de fruta picada, podrían ser fresas, plátano, mandarina, ... o inclusive una mezcla de estas. Ahora vamos a enrollar el pan de fajita de tal modo que formemos un tubo, quedando la fruta en el centro de este. Cuando terminemos de enrollar colocaremos el cierre boca abajo en el plato para que no se desenrolle. Hemos preparado un aperitivo o merienda, tanto para niños como para adultos. También podemos hacerlas eliminando la crema de chocolate, quedando fajitas de frutas.",
+    "Material_necesario": "Pan de fajitas, crema de chocolate y fruta troceada"
+  },
+  {
+    "idActividad": 82,
+    "Nombre_Actividad": "Alfombras",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Costura",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Cortaremos un trozo de tela de malla plástica, del tamaño que queramos hacer nuestro felpudo. Unas medidas para un felpudo normal podrían ser 40x60 centímetros. Una vez tengamos la base de nuestro felpudo, vamos a encargarnos de recortar los trozos de lana que vamos a utilizar. Elegiremos las lanas que queremos, podemos combinar varios colores. Recortaremos trozos de unos 10 centímetros cada uno. Intentaremos que todos tengan el mismo tamaño. Ahora podemos optar por dos opciones, una en la que, si usamos varios colores, los tengamos por separados y los vamos colocando según nuestro gusto, y otra opción sería mezclar todos los trozos e ir cogiendo diferentes trozos cada vez, de tal modo que quedarán todos los colores mezclados, sin orden alguno. Vamos cogiendo cada uno de estos trozos de lana y atravesando uno de los agujeros de la malla, haremos un nudo en la mitad de cada trozo de lana, al lado derecho del agujero. De este modo quedarán dos trozos de lana colgando del mismo tamaño. En cada agujero debemos colocar un trozo de lana. Cuando completemos todos los agujeros de la malla de plástico que habíamos elegido, tendremos nuestro felpudo terminado.",
+    "Material_necesario": "Tela de malla plástica, lanas y tijeras"
+  },
+  {
+    "idActividad": 83,
+    "Nombre_Actividad": "Decora tu caja secreta",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "Vamos a crear una caja para guardar nuestros objetos secretos. Partimos de una caja de zapatos que tengamos por casa. Vamos a decorarla como más nos guste, para ello utilizaremos temperas, acuarelas o rotuladores. También podemos optar por forrarla con trozos de tela que tengamos. No olvides adornarla con piedras, purpurina o incluso podemos añadir recortables de revistas que podamos recopilar. Esta caja debe tener su tapa, la cual tendremos que colorear y decorar a nuestro gusto. No nos olvidemos de la parte interior de esta caja que también deberemos colorear del color que prefiramos. Hemos construido nuestra caja de objetos secretos, donde podremos guardar todo lo que tenga un valor especial para nosotros.",
+    "Material_necesario": "Caja de zapatos, temperas, acuarelas, pinceles, rotuladores, piedras y purpurina para decorar."
+  },
+  {
+    "idActividad": 84,
+    "Nombre_Actividad": "Panera",
+    "Categoría": "Manualidad",
+    "Fase_del_Alzheimer": [0, 1, 2],
+    "Característica": "Manualidad, Cocina",
+    "Número_personas": "Mínimo 1 jugador",
+    "Descripción_actividad": "En esta actividad, vamos a crear una panera o bandeja para servir. Cogeremos una caja de madera donde suelen venir las frutas, si no la conseguimos podemos usar una caja de zapatos, lo que deberíamos cortarle el alto a la caja, para que no sea tan alta. Vamos crear una especie de barniz, mezclando cola blanca y agua. La proporción de esta mezcla sería dos partes de cola y una de agua. Ahora vamos a forrar toda la parte exterior de nuestra caja con papel higiénico. Iremos colocando trozos de papel higiénico sobre la caja y por encima iremos poniendo el barniz que hemos creado. Podemos poner varias capas de papel para que endurezca más, pero entre capa y capa debemos dejarlo secar. Cuando ya consigamos la consistencia que queremos pasaremos a colorear la caja. La parte interior la pintaremos toda del mismo color, mientras que en la parte exterior podemos utilizar nuestra imaginación. Utilizaremos temperas y acuarelas para colorearla, pero también podemos añadir purpurinas, piedras o cualquier adorno que queramos utilizar.",
+    "Material_necesario": "Caja de madera o de zapatos, temperas, acuarelas, pinceles, cola, papel higiénico y purpurina o piedras para decorar."
+  }
+]
